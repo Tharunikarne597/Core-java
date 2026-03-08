@@ -1,0 +1,26 @@
+// Different type of print statementsin java
+       public class PrintStatements {
+       public static void main(String[] args){
+         // Print,printf,println
+         //print
+         System.out.print("hello tharuni");
+         System.out.print("how are you");
+         //println
+         System.out.print("hello tharuni");
+         System.out.print("how are you");
+         //printf 
+         System.out.printf("The Current year is %d and the month is %s",2026,"March");
+         /*  foramatting strings
+         %b boolean
+         %c character
+         %d integer
+         %e scientific notation
+         %f floating point
+         %s string 
+         %tc complete data and time
+         %n a newline on this platform
+         %% the character %
+         */
+         System.out.println("hello");
+         }
+         }
