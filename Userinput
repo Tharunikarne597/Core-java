@@ -1,5 +1,6 @@
 // how to get the user input from console
 // get different types of data from the console
+
 public class UserInput {
   public static void main(String[] args){
    Scanner scanner = new Scanner(System.in);
